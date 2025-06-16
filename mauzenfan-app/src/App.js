@@ -5,12 +5,13 @@ import { getFirestore, doc, setDoc, getDoc, collection, query, where, onSnapshot
 
 // --- Firebase & App Configuration ---
 const firebaseConfig = {
-    apiKey: "AIzaSyDhuF4Quyluf5TRvA4lpv19OQtuJ4BabIU",
-    authDomain: "mauzenfan.firebaseapp.com",
-    projectId: "mauzenfan",
-    storageBucket: "mauzenfan.appspot.com",
-    messagingSenderId: "844094387101",
-    appId: "1:844094387101:web:0f67399634ef5cbec63574"
+    apiKey: "AIzaSyAv7gNc17ZsVQUQSyibzRenabKLoqlRPBY",
+    authDomain: "safekids-6465b.firebaseapp.com",
+    projectId: "safekids-6465b",
+    storageBucket: "safekids-6465b.firebasestorage.app",
+    messagingSenderId: "1020322926990",
+    appId: "1:1020322926990:web:a13e32672697f9bffb94df",
+    measurementId: "G-1KMGMSF0E9"
 };
 
 // --- App Initialization ---
