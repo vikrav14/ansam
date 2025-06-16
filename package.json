@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "daisyui": "^5.0.43",
     "firebase": "^11.9.1"
   }
 }
